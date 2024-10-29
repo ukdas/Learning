@@ -1,7 +1,3 @@
-/**
- * @license Copyright (c) Microsoft Corporation. All rights reserved.
- */
-
 import {
   devices,
   PlaywrightTestConfig,
